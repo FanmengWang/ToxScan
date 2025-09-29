@@ -1,10 +1,10 @@
-# A Multiscale-Information-Embedded Universal Toxicity Prediction Framework
+# Multiscale-Information-Embedded Universal Toxicity Prediction Framework
 [![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue)](https://github.com/FanmengWang/ToxScan/blob/master/LICENCE.txt)
 [![Static Badge](https://img.shields.io/badge/PyTorch-red)](https://pytorch.org/)
 
-[[Online Platform]](https://app.bohrium.dp.tech/toxscan/) 
+[[Paper]](https://pubs.acs.org/doi/full/10.1021/acs.est.5c04614) [[Online Platform]](https://app.bohrium.dp.tech/toxscan/) 
 
-This is the official implementation of "A Multiscale-Information-Embedded Universal Toxicity Prediction Framework"
+This is the official implementation of "Multiscale-Information-Embedded Universal Toxicity Prediction Framework"
 
 ToxScan is a universal toxicity prediction framework to address the toxicity prediction issue.
 <p align="center"><img src="figures/Overview.png" width=80%></p>
@@ -46,7 +46,7 @@ Evaluation
 
 Online Platform
 ------------
-You can also try ToxScan online by clicking on this [link](https://app.bohrium.dp.tech/toxscan/)
+You can also try ToxScan online by clicking on this [link](https://funmg.dp.tech/Toxscan)
 
 
 Acknowledgment
